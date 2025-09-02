@@ -1,0 +1,6 @@
+client_id;client_cep;agency_id;agency_name;agency_city;agency_state;distance_km
+C1;40010000;A1;Itaú Salvador;Salvador;BA;1.014208
+C2;50010000;A2;Itaú Recife;Recife;PE;0.6822
+C3;60010000;A3;Itaú Fortaleza;Fortaleza;CE;1.884803
+C4;58010000;A4;Itaú João Pessoa;João Pessoa;PB;1.122168
+C5;64010000;A5;Itaú Teresina;Teresina;PI;1.104883

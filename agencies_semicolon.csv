@@ -1,0 +1,6 @@
+agency_id;name;cep;address;city;state;lat;lon
+A1;Itaú Salvador;40020000;Rua Chile 10;Salvador;BA;-12.975;-38.51
+A2;Itaú Recife;50020000;Av. Guararapes 500;Recife;PE;-8.0522;-34.8811
+A3;Itaú Fortaleza;60020000;Av. Beira Mar 300;Fortaleza;CE;-3.735;-38.51
+A4;Itaú João Pessoa;58020000;Av. Epitácio Pessoa 1000;João Pessoa;PB;-7.12;-34.87
+A5;Itaú Teresina;64020000;Av. Frei Serafim 2000;Teresina;PI;-5.095;-42.81
